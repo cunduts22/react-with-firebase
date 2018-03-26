@@ -1,0 +1,7 @@
+node_modules/
+.firebase/
+database.rules.json/
+firebase.json/
+firebase.indexes.json/
+firesotre.rules/
+functions/
